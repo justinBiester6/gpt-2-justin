@@ -1,7 +1,7 @@
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.training import HParams
-
+Aadi Shah :)
 def default_hparams():
     return HParams(
         n_vocab=0,
