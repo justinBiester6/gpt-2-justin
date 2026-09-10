@@ -2,6 +2,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.training import HParams
 #Aadi Shah :)
+Ishan Ajwani
 #Justin <|:O
 def default_hparams():
     return HParams(
